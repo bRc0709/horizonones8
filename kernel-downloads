@@ -1,7 +1,7 @@
 {
   "kernel": {
     "name": "horizonKernel",
-    "version": "v3.0",
+    "version": "v4.0",
     "link": "https://raw.githubusercontent.com/berci07/HorizonOneS8-S8plus/master/horizonKernelv3.zip",
     "changelog_url": "https://raw.githubusercontent.com/berci07/HorizonOneS8-S8plus/master/v2.5",
     "sha1": "FFF51E55418DBF142E6BA341E2982FCF5E6BA78A"
