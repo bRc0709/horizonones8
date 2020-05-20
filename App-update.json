@@ -1,0 +1,9 @@
+{
+  "latestVersion": "99.0-20190316",
+  "url": "https://github.com/DarknessMod/Kernel-Manager/blob/master/download/com.darkness.kernelmanager.apk?raw=true",
+  "releaseNotes": [
+    "Change-log:",
+    "- I/O: Add support to No-Merges & NR Requests.",
+    "- Misc: Other (minor) changes."
+  ]
+}
