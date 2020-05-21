@@ -4,6 +4,7 @@
   "url": "",
   "releaseNotes": [
     "Changelog:",
-    "- Minor translation fixes"
+    "- Minor translation fixes",
+    "- Minor perfomance tweaks"
   ]
 }
