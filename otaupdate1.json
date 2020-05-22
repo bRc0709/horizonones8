@@ -1,13 +1,14 @@
 {
   "kernel": {
-    "name": "test",
-    "version": "v1.0",
-    "link": "https://raw.githubusercontent.com/berci07/horizonOne/master/test.zip",
-    "changelog_url": "test",
-    "sha1": "207860DE4100B5A02B1C3ADDC59EF3186D30CB7A"
+    "name": "horizonOne_v3.0",
+    "version": "v3.0",
+    "link": "https://github.com/berci07/horizonOne/raw/master/test.zip",
+    "changelog_url": "-test",
+    "sha1": "sha1"
   },
   "support": {
-    "link": "www.xda.com",
-    "donation": "www.paypal.com"
+    "link": "support_link",
+    "donation": "donation_link"
   }
 }
+'+
