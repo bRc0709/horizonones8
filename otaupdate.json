@@ -1,7 +1,7 @@
 {
   "kernel": {
-    "name": "v3.0",
-    "version": "v3.0",
+    "name": "v2.0",
+    "version": "v2.0",
     "link": "https://raw.githubusercontent.com/berci07/horizonOne/master/test.zip",
     "changelog_url": "test",
     "sha1": "207860DE4100B5A02B1C3ADDC59EF3186D30CB7A"
