@@ -1,9 +1,12 @@
 {
-  "latestVersion": "v3.0",
-  "url": "https://raw.githubusercontent.com/berci07/horizonOne/master/test.zip",
-  "releaseNotes": [
-    "Change-log:",
-    "- test",
-    "- test"
-  ]
+  "kernel": {
+    "name": "v3.0",
+    "version": "v3.0",
+    "link": "https://github.com/berci07/horizonOne/raw/master/test.zip",
+    "changelog_url": "test"
+  },
+  "support": {
+    "link": "www.xda.com",
+    "donation": "www.paypal.com"
+  }
 }
