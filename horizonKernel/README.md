@@ -1,0 +1,1 @@
+This is the source code for horizonKernel introduced in horizonOne S8(+) ROM ([URL=https://forum.xda-developers.com/galaxy-s8/samsung-galaxy-s8--s8-cross-device-development/rom-horizonone-v1-2-s8-s8-exynos-t4089539]XDA page[/URL])
