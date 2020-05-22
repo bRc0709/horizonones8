@@ -1,0 +1,13 @@
+{
+  "kernel": {
+    "name": "test",
+    "version": "v1.0",
+    "link": "https://raw.githubusercontent.com/berci07/horizonOne/master/test.zip",
+    "changelog_url": "test",
+    "sha1": "207860DE4100B5A02B1C3ADDC59EF3186D30CB7A"
+  },
+  "support": {
+    "link": "",
+    "donation": ""
+  }
+}
