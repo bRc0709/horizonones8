@@ -1,0 +1,13 @@
+{
+  "kernel": {
+    "name": "test-ota update",
+    "version": "v3.1",
+    "link": "https://raw.githubusercontent.com/berci07/horizonOne/master/Test-ZIP.zip",
+    "changelog_url": "Test OTA update",
+    "sha1": "F91C19138A32439C217C721AE9B2D3591943E661"
+  },
+  "support": {
+    "link": "www.xda.com",
+    "donation": "www.paypal.com"
+  }
+}
