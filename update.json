@@ -1,0 +1,10 @@
+{
+  "latestVersion": "3.0.0",
+  "latestVersionCode": "300",
+  "url": "https://raw.githubusercontent.com/berci07/horizonOne/master/downloads/horizonManager_v3.0.0.apk",
+  "releaseNotes": [
+    "Changelog:",
+    "- Perfomance tweaks",
+    "- Changed Build Display ID to horizonOne version"
+  ]
+}
